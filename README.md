@@ -16,13 +16,13 @@ unzip CoNLLL 2002'
 
 Move and rename the files:(Powershell commands)
 
-``Get-ChildItem annotation\ -Filter *.conll -Recurse | Rename-Item -NewName { $_.Directory.Name+'.conll'}
+``Get-ChildItem annotation\ -Filter *.conll -Recurse | Rename-Item -NewName { $_.Directory.Name+'.conll'}``
 
-Get-ChildItem -Path .\code\annotation\ -Filter *.conll -Recurse -File | Move-Item -Destination .\code\annotation\CoNLL\
+``Get-ChildItem -Path .\code\annotation\ -Filter *.conll -Recurse -File | Move-Item -Destination .\code\annotation\CoNLL\``
 
-Get-ChildItem annotation\ -Filter *.conll -Recurse | Rename-Item -NewName { $_.Directory.Name}
+``Get-ChildItem annotation\ -Filter *.conll -Recurse | Rename-Item -NewName { $_.Directory.Name}``
 
-Get-ChildItem -Path annotation\ -Filter *.txt -Recurse -File | Move-Item -Destination TXT\``
+``Get-ChildItem -Path annotation\ -Filter *.txt -Recurse -File | Move-Item -Destination TXT\``
 
 Run preprocess.py to get train and test files (Glove embeddings format also available)
 
