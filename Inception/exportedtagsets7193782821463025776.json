@@ -1,0 +1,41 @@
+{
+  "name" : "Named Entity tags",
+  "typeUiName" : null,
+  "description" : "Named Entity annotation",
+  "language" : "de",
+  "type" : null,
+  "type_name" : null,
+  "type_description" : null,
+  "tags" : [ {
+    "tag_name" : "#Participants",
+    "tag_description" : "Number of participants in the study. Add relation to symptom."
+  }, {
+    "tag_name" : "Dosage",
+    "tag_description" : "Dosage of the drug. Add relation to the drug."
+  }, {
+    "tag_name" : "Drug/Scientific name",
+    "tag_description" : "Drug used in the study. If not, then scientific name of the herb. Both are also accepted."
+  }, {
+    "tag_name" : "Duration",
+    "tag_description" : "Duration of the study. Add relation to the symptom."
+  }, {
+    "tag_name" : "Medicinal food",
+    "tag_description" : "Herbs used"
+  }, {
+    "tag_name" : "Metric",
+    "tag_description" : "How is the symptom measured. Add relation to symptom"
+  }, {
+    "tag_name" : "Other_ingredients",
+    "tag_description" : "Foods other than the medicinal foods/herbs"
+  }, {
+    "tag_name" : "Symptom_TestedFor",
+    "tag_description" : "Stress/Sleep/Anxiety. For which the study tested but did not record positive results"
+  }, {
+    "tag_name" : "Symptom_WorkedFor",
+    "tag_description" : "Stress/sleep/anxiety. For which is the study implying positive results"
+  }, {
+    "tag_name" : "participant_health",
+    "tag_description" : "Health status of the participants. Add relation to #participants"
+  } ],
+  "create_tag" : false
+}

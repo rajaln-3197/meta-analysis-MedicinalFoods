@@ -1,0 +1,29 @@
+{
+  "name" : "Coreference relations",
+  "typeUiName" : null,
+  "description" : "coreference relation annotation",
+  "language" : "de",
+  "type" : null,
+  "type_name" : null,
+  "type_description" : null,
+  "tags" : [ {
+    "tag_name" : "at_risk_of",
+    "tag_description" : null
+  }, {
+    "tag_name" : "coref",
+    "tag_description" : "Coreferences: Two Entities that points to the same concept"
+  }, {
+    "tag_name" : "evaluated-for",
+    "tag_description" : "#participant to symptom entity"
+  }, {
+    "tag_name" : "how-long",
+    "tag_description" : "Duration to the symptom entity"
+  }, {
+    "tag_name" : "how-much",
+    "tag_description" : "Dosage to the medical food and drug/scientific name"
+  }, {
+    "tag_name" : "used-for",
+    "tag_description" : "Metric used for what symptom"
+  } ],
+  "create_tag" : false
+}
