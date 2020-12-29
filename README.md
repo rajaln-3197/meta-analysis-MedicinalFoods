@@ -4,7 +4,7 @@ Extracting relevant information from a large collection of research articles
 # Data collection
 Scrape Journal Articles related to Public Health for Stress, Anxiety, and Sleep Disorders from Pubmed. 
 
-Run scrape_articles.py
+Run scrape_articles.py (Data folder)
 
 # Annotation 
 Set up Inception server on local machine: https://inception-project.github.io/
