@@ -29,20 +29,20 @@ Run preprocess.py to get train and test files (Glove embeddings format also avai
 # Running models
 
 
-pip install spacy
+``pip install spacy``
 
-python -m spacy download en_core_web_sm
+``python -m spacy download en_core_web_sm``
 
-run setup.py
+``run setup.py``
 
-python -m spacy convert --converter ner train.conll ./train
+``python -m spacy convert --converter ner train.conll ./train``
 
-python -m spacy convert --converter ner val.conll ./val
+``python -m spacy convert --converter ner val.conll ./val``
 
-python -m spacy debug-data en ./train ./val -p ner -b en_core_web_sm
+``python -m spacy debug-data en ./train ./val -p ner -b en_core_web_sm``
 
-python -m spacy train en ./models/md ./train ./val --base-model en_core_web_sm --pipeline ner -R -n 25
+``python -m spacy train en ./models/md ./train ./val --base-model en_core_web_sm --pipeline ner -R -n 25``
 
-python -m spacy evaluate ./models/md/model-best ./val
+``python -m spacy evaluate ./models/md/model-best ./val``
 
-python eval.py
+``python eval.py``
