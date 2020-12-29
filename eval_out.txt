@@ -1,0 +1,137 @@
+
+Symptom_WorkedFor:anxiolytic
+Symptom_WorkedFor:antidepressant
+Symptom_WorkedFor:antistress
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:depression
+Symptom_WorkedFor:stress
+Other_ingredients:lorazepam
+Drug/Scientific:Withania somnifera
+Dosage:100 mg/kg, p.o.
+Symptom_WorkedFor:anxiolytic
+Symptom_WorkedFor:antidepressant
+Symptom_WorkedFor:antistress
+Other_ingredients:lorazepam
+Drug/Scientific:W. somnifera
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:anxiolytic
+Symptom_WorkedFor:antidepressant
+Symptom_WorkedFor:stress
+
+Medicinal:Bacopa monneri
+Medicinal:BM
+Symptom_WorkedFor:anxiety
+Medicinal:BM
+Medicinal:BM
+Medicinal:BM
+Medicinal:BM
+Medicinal:BM
+Medicinal:BM
+
+Symptom_WorkedFor:anxiety
+Other_ingredients:fluoxetine
+Other_ingredients:fluoxetine
+Medicinal:folic acid
+Symptom_WorkedFor:Anxiety
+Medicinal:OS
+Drug/Scientific:STAI
+Metric:STAI
+Medicinal:OS
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:emotional distress
+
+Medicinal:Ginkgo biloba
+Medicinal:EGB 761
+Symptom_WorkedFor:cognitive dysfunction
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:anxiety disorders
+Other_ingredients:exogenous corticosterone
+
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:insomnia
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:insomnia
+Symptom_WorkedFor:stress
+
+Medicinal:Lavender
+Symptom_WorkedFor:depression
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:stress
+#Participants:141
+Medicinal:Lavender
+Dosage:2g
+Duration:two months
+Medicinal:. Depression
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:stress
+Medicinal:Lavender
+Symptom_WorkedFor:depression
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:anxiety
+Medicinal:lavender
+Symptom_WorkedFor:stress
+Medicinal:Lavender
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:anxiety
+Symptom_WorkedFor:depression
+
+Symptom_WorkedFor:anxiety
+Metric:Hamilton Depression Rating Scale
+#Participants:29
+Symptom_TestedFor:depression
+Symptom_WorkedFor:anxiety
+
+Medicinal:Magnolia officinalis
+Medicinal:Phellodendron amurense
+Symptom_WorkedFor:anxiety
+Dosage:-mg
+Duration:6 weeks
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:anxiety
+Medicinal:M officinalis
+Medicinal:P amurense
+Medicinal:M officinalis
+Medicinal:P amurense
+Medicinal:Bedtime
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:weight change
+Medicinal:M officinalis
+Medicinal:P amurense
+
+Symptom_WorkedFor:stress
+Symptom_WorkedFor:stress
+Medicinal:Curcumin
+Medicinal:Zingiberaceae
+Symptom_WorkedFor:sleep deprivation
+Symptom_WorkedFor:sleep deprivation
+Symptom_WorkedFor:weight loss
+Symptom_WorkedFor:anxiety like
+Symptom_TestedFor:impaired locomotor
+Medicinal:Curcumin
+Medicinal:Curcumin
+Medicinal:Curcumin
+Medicinal:Curcumin
+Medicinal:Curcumin
+Symptom_WorkedFor:sleep deprivation
+
+Symptom_WorkedFor:cognitive impairment
+Symptom_WorkedFor:cognitive impairment
+Symptom_WorkedFor:dementia
+Symptom_WorkedFor:SCI
+Medicinal:Bacopa
+Medicinal:Ginkgo biloba
+Medicinal:Panax ginseng
+Medicinal:short-term
+Symptom_WorkedFor:accuracy
+Symptom_TestedFor:mood
+Symptom_TestedFor:fatigue
+Symptom_TestedFor:cognitive (
+Drug/Scientific:CogState®
+Symptom_WorkedFor:Depression
+Symptom_WorkedFor:Anxiety
+Metric:Short Health Anxiety Inventory
+Metric:Functional Assessment of Chronic Illness Therapy Fatigue Scale
+Metric:Cognition Support Formula
+Symptom_WorkedFor:dementia
